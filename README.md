@@ -15,15 +15,13 @@ A simple and fully responsive portfolio website built with HTML, CSS, and Vanill
 
 ### Links
 
-- Solution URL: [https://github.com/fatima-xs/devfatu-portfolio-website](https://github.com/fatima-xs/devfatu-portfolio-website)
-- Live Site URL: [https://devfatu-portfolio-fatima.netlify.app/](https://devfatu-portfolio-fatima.netlify.app/)
+- Solution URL: [Github](https://github.com/fatima-xs/devfatu-portfolio-website)
+- Live Site URL: [Netlify](https://devfatu-portfolio-fatima.netlify.app/)
 
 ## Built with
-
-- HTML
-- CSS 
-- Vanilla JS
-
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ## Installation
 - Clone this repository to your desktop
 - Navigate to the top level of the directory
@@ -31,8 +29,10 @@ A simple and fully responsive portfolio website built with HTML, CSS, and Vanill
 
 ## Author
 **Fatimata Ndiaye**
-- [Profile](https://github.com/fatima-xs "Fatima Ndiaye") 
-- [Email](mailto:fatimanndiaye@gmail.com?subject=Hi "Hi!")
+
+[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fatimanndiaye@gmail.com)
+[![Github profile](https://img.shields.io/badge/-Github-343a40?style=flat&logo=github&logoColor=white)](https://github.com/fatima-xs)
+
 
 
 
